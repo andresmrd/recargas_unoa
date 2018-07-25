@@ -1,0 +1,29 @@
+C:\Users\ASUS\documents\visual studio 2010\Projects\VentasUNOA1\VentasUNOA1\bin\Debug\VentasUNOA1.exe
+C:\Users\ASUS\documents\visual studio 2010\Projects\VentasUNOA1\VentasUNOA1\bin\Debug\VentasUNOA1.pdb
+C:\Users\ASUS\documents\visual studio 2010\Projects\VentasUNOA1\VentasUNOA1\obj\x86\Debug\VentasUNOA.Menu.resources
+C:\Users\ASUS\documents\visual studio 2010\Projects\VentasUNOA1\VentasUNOA1\obj\x86\Debug\VentasUNOA.Properties.Resources.resources
+C:\Users\ASUS\documents\visual studio 2010\Projects\VentasUNOA1\VentasUNOA1\obj\x86\Debug\VentasUNOA1.csproj.GenerateResource.Cache
+C:\Users\ASUS\documents\visual studio 2010\Projects\VentasUNOA1\VentasUNOA1\obj\x86\Debug\VentasUNOA1.exe
+C:\Users\ASUS\documents\visual studio 2010\Projects\VentasUNOA1\VentasUNOA1\obj\x86\Debug\VentasUNOA1.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\VentasUNOA1\VentasUNOA1\bin\Debug\VentasUNOA1.exe.config
+C:\Users\ASUS\documents\visual studio 2010\Projects\VentasUNOA1\VentasUNOA1\obj\x86\Debug\VentasUNOA.Caja.resources
+C:\Users\ASUS\documents\visual studio 2010\Projects\VentasUNOA1\VentasUNOA1\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\documents\visual studio 2010\Projects\VentasUNOA1\VentasUNOA1\obj\x86\Debug\VentasUNOA.Print.resources
+C:\Users\aruizd\Dropbox\unoa\VentasUNOA1\VentasUNOA1\bin\Debug\VentasUNOA1.exe.config
+C:\Users\aruizd\Dropbox\unoa\VentasUNOA1\VentasUNOA1\obj\x86\Debug\VentasUNOA1.exe
+C:\Users\aruizd\Dropbox\unoa\VentasUNOA1\VentasUNOA1\obj\x86\Debug\VentasUNOA1.pdb
+C:\Users\aruizd\Dropbox\unoa\VentasUNOA1\VentasUNOA1\bin\Debug\VentasUNOA1.exe
+C:\Users\aruizd\Dropbox\unoa\VentasUNOA1\VentasUNOA1\bin\Debug\VentasUNOA1.pdb
+C:\Users\aruizd\Dropbox\unoa\VentasUNOA1\VentasUNOA1\obj\x86\Debug\VentasUNOA1.csprojResolveAssemblyReference.cache
+C:\Users\aruizd\Dropbox\unoa\VentasUNOA1\VentasUNOA1\obj\x86\Debug\VentasUNOA.Caja.resources
+C:\Users\aruizd\Dropbox\unoa\VentasUNOA1\VentasUNOA1\obj\x86\Debug\VentasUNOA.Menu.resources
+C:\Users\aruizd\Dropbox\unoa\VentasUNOA1\VentasUNOA1\obj\x86\Debug\VentasUNOA.Print.resources
+C:\Users\aruizd\Dropbox\unoa\VentasUNOA1\VentasUNOA1\obj\x86\Debug\VentasUNOA.Properties.Resources.resources
+C:\Users\aruizd\Dropbox\unoa\VentasUNOA1\VentasUNOA1\obj\x86\Debug\VentasUNOA1.csproj.GenerateResource.Cache
+C:\Users\aruizd\Dropbox\unoa\VentasUNOA1\VentasUNOA1\obj\x86\Debug\VentasUNOA.VentasDiarias.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\VentasUNOA1\VentasUNOA1\obj\x86\Debug\VentasUNOA.VentasDiarias.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\VentasUNOA1\VentasUNOA1\obj\x86\Debug\VentasUNOA.VentasTotales.resources
+C:\Users\ASUS\documents\visual studio 2010\Projects\VentasUNOA1\VentasUNOA1\bin\Debug\VentasUNOA1.exe.manifest
+C:\Users\ASUS\documents\visual studio 2010\Projects\VentasUNOA1\VentasUNOA1\bin\Debug\VentasUNOA1.application
+C:\Users\ASUS\documents\visual studio 2010\Projects\VentasUNOA1\VentasUNOA1\obj\x86\Debug\VentasUNOA1.exe.manifest
+C:\Users\ASUS\documents\visual studio 2010\Projects\VentasUNOA1\VentasUNOA1\obj\x86\Debug\VentasUNOA1.application

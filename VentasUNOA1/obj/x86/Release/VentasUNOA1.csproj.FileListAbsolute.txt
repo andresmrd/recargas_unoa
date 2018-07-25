@@ -1,0 +1,44 @@
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\VentasUNOA1\VentasUNOA1\obj\x86\Release\VentasUNOA1.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\VentasUNOA1\VentasUNOA1\bin\Release\VentasUNOA1.exe.config
+C:\Users\aruizd\Dropbox\unoa\VentasUNOA1\VentasUNOA1\obj\x86\Release\VentasUNOA.Caja.resources
+C:\Users\aruizd\Dropbox\unoa\VentasUNOA1\VentasUNOA1\obj\x86\Release\VentasUNOA.Menu.resources
+C:\Users\aruizd\Dropbox\unoa\VentasUNOA1\VentasUNOA1\obj\x86\Release\VentasUNOA.Print.resources
+C:\Users\aruizd\Dropbox\unoa\VentasUNOA1\VentasUNOA1\obj\x86\Release\VentasUNOA.Properties.Resources.resources
+C:\Users\aruizd\Dropbox\unoa\VentasUNOA1\VentasUNOA1\obj\x86\Release\VentasUNOA1.csproj.GenerateResource.Cache
+C:\Users\aruizd\Dropbox\unoa\VentasUNOA1\VentasUNOA1\bin\Release\VentasUNOA1.exe.config
+C:\Users\ASUS\documents\visual studio 2010\Projects\VentasUNOA1\VentasUNOA1\obj\x86\Release\VentasUNOA.Caja.resources
+C:\Users\ASUS\documents\visual studio 2010\Projects\VentasUNOA1\VentasUNOA1\obj\x86\Release\VentasUNOA.VentasTotales.resources
+C:\Users\ASUS\documents\visual studio 2010\Projects\VentasUNOA1\VentasUNOA1\obj\x86\Release\VentasUNOA.Menu.resources
+C:\Users\ASUS\documents\visual studio 2010\Projects\VentasUNOA1\VentasUNOA1\obj\x86\Release\VentasUNOA.Print.resources
+C:\Users\ASUS\documents\visual studio 2010\Projects\VentasUNOA1\VentasUNOA1\obj\x86\Release\VentasUNOA.Properties.Resources.resources
+C:\Users\ASUS\documents\visual studio 2010\Projects\VentasUNOA1\VentasUNOA1\obj\x86\Release\VentasUNOA.VentasDiarias.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\VentasUNOA1\VentasUNOA1\bin\Release\VentasUNOA1.exe.manifest
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\VentasUNOA1\VentasUNOA1\bin\Release\VentasUNOA1.application
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\VentasUNOA1\VentasUNOA1\bin\Release\VentasUNOA1.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\VentasUNOA1\VentasUNOA1\bin\Release\VentasUNOA1.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\VentasUNOA1\VentasUNOA1\bin\Release\LibPrintTicket.dll
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\VentasUNOA1\VentasUNOA1\bin\Release\MySql.Data.dll
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\VentasUNOA1\VentasUNOA1\obj\x86\Release\VentasUNOA1.exe.manifest
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\VentasUNOA1\VentasUNOA1\obj\x86\Release\VentasUNOA1.application
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\VentasUNOA1\VentasUNOA1\obj\x86\Release\VentasUNOA1.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\VentasUNOA1\VentasUNOA1\obj\x86\Release\VentasUNOA1.pdb
+D:\Users\aruiz\Documents\Andrés's Document\Farmacias UNOA\VentasUNOA1\bin\Release\VentasUNOA1.exe.config
+D:\Users\aruiz\Documents\Andrés's Document\Farmacias UNOA\VentasUNOA1\bin\Release\VentasUNOA1.exe.manifest
+D:\Users\aruiz\Documents\Andrés's Document\Farmacias UNOA\VentasUNOA1\bin\Release\VentasUNOA1.application
+D:\Users\aruiz\Documents\Andrés's Document\Farmacias UNOA\VentasUNOA1\bin\Release\VentasUNOA1.exe
+D:\Users\aruiz\Documents\Andrés's Document\Farmacias UNOA\VentasUNOA1\bin\Release\VentasUNOA1.pdb
+D:\Users\aruiz\Documents\Andrés's Document\Farmacias UNOA\VentasUNOA1\bin\Release\LibPrintTicket.dll
+D:\Users\aruiz\Documents\Andrés's Document\Farmacias UNOA\VentasUNOA1\obj\x86\Release\VentasUNOA.Caja.resources
+D:\Users\aruiz\Documents\Andrés's Document\Farmacias UNOA\VentasUNOA1\obj\x86\Release\VentasUNOA.VentasTotales.resources
+D:\Users\aruiz\Documents\Andrés's Document\Farmacias UNOA\VentasUNOA1\obj\x86\Release\VentasUNOA.Menu.resources
+D:\Users\aruiz\Documents\Andrés's Document\Farmacias UNOA\VentasUNOA1\obj\x86\Release\VentasUNOA.Print.resources
+D:\Users\aruiz\Documents\Andrés's Document\Farmacias UNOA\VentasUNOA1\obj\x86\Release\VentasUNOA.Properties.Resources.resources
+D:\Users\aruiz\Documents\Andrés's Document\Farmacias UNOA\VentasUNOA1\obj\x86\Release\VentasUNOA.VentasDiarias.resources
+D:\Users\aruiz\Documents\Andrés's Document\Farmacias UNOA\VentasUNOA1\obj\x86\Release\VentasUNOA1.csproj.GenerateResource.Cache
+D:\Users\aruiz\Documents\Andrés's Document\Farmacias UNOA\VentasUNOA1\obj\x86\Release\VentasUNOA1.csproj.CoreCompileInputs.cache
+D:\Users\aruiz\Documents\Andrés's Document\Farmacias UNOA\VentasUNOA1\obj\x86\Release\VentasUNOA1.exe.manifest
+D:\Users\aruiz\Documents\Andrés's Document\Farmacias UNOA\VentasUNOA1\obj\x86\Release\VentasUNOA1.application
+D:\Users\aruiz\Documents\Andrés's Document\Farmacias UNOA\VentasUNOA1\obj\x86\Release\VentasUNOA1.exe
+D:\Users\aruiz\Documents\Andrés's Document\Farmacias UNOA\VentasUNOA1\obj\x86\Release\VentasUNOA1.pdb
+D:\Users\aruiz\Documents\Andrés's Document\Farmacias UNOA\VentasUNOA1\obj\x86\Release\VentasUNOA1.csprojAssemblyReference.cache
+D:\Users\aruiz\Documents\Andrés's Document\Farmacias UNOA\VentasUNOA1\obj\x86\Release\VentasUNOA1.csproj.CopyComplete
