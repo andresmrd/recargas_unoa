@@ -129,6 +129,18 @@
     <EmbeddedResource Include="Caja.resx">
       <DependentUpon>Caja.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="obj\x86\Debug\VentasUNOA.Caja.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\VentasUNOA.Menu.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\VentasUNOA.Print.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\VentasUNOA.Properties.Resources.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\VentasUNOA.VentasDiarias.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\VentasUNOA.VentasTotales.resources" />
+    <EmbeddedResource Include="obj\x86\Release\VentasUNOA.Caja.resources" />
+    <EmbeddedResource Include="obj\x86\Release\VentasUNOA.Menu.resources" />
+    <EmbeddedResource Include="obj\x86\Release\VentasUNOA.Print.resources" />
+    <EmbeddedResource Include="obj\x86\Release\VentasUNOA.Properties.Resources.resources" />
+    <EmbeddedResource Include="obj\x86\Release\VentasUNOA.VentasDiarias.resources" />
+    <EmbeddedResource Include="obj\x86\Release\VentasUNOA.VentasTotales.resources" />
     <EmbeddedResource Include="VentasTotales.resx">
       <DependentUpon>VentasTotales.cs</DependentUpon>
     </EmbeddedResource>
@@ -152,10 +164,38 @@
       <DependentUpon>VentasDiarias.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="app.config" />
+    <None Include="bin\Debug\VentasUNOA.vshost.exe.manifest" />
+    <None Include="bin\Debug\VentasUNOA1.application" />
+    <None Include="bin\Debug\VentasUNOA1.exe.config" />
+    <None Include="bin\Debug\VentasUNOA1.exe.manifest" />
+    <None Include="bin\Debug\VentasUNOA1.vshost.application" />
+    <None Include="bin\Debug\VentasUNOA1.vshost.exe.config" />
+    <None Include="bin\Debug\VentasUNOA1.vshost.exe.manifest" />
+    <None Include="bin\Release\VentasUNOA1.application" />
+    <None Include="bin\Release\VentasUNOA1.exe.config" />
+    <None Include="bin\Release\VentasUNOA1.exe.manifest" />
+    <None Include="bin\Release\VentasUNOA1.vshost.application" />
+    <None Include="bin\Release\VentasUNOA1.vshost.exe.config" />
+    <None Include="bin\Release\VentasUNOA1.vshost.exe.manifest" />
     <None Include="ConfigFile.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>ConfigFile.Designer.cs</LastGenOutput>
     </None>
+    <None Include="obj\x86\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\x86\Debug\VentasUNOA1.application" />
+    <None Include="obj\x86\Debug\VentasUNOA1.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\x86\Debug\VentasUNOA1.csproj.GenerateResource.Cache" />
+    <None Include="obj\x86\Debug\VentasUNOA1.exe.manifest" />
+    <None Include="obj\x86\Release\build.force" />
+    <None Include="obj\x86\Release\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\x86\Release\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\x86\Release\VentasUNOA1.application" />
+    <None Include="obj\x86\Release\VentasUNOA1.csproj.CopyComplete" />
+    <None Include="obj\x86\Release\VentasUNOA1.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\x86\Release\VentasUNOA1.csproj.GenerateResource.cache" />
+    <None Include="obj\x86\Release\VentasUNOA1.csprojAssemblyReference.cache" />
+    <None Include="obj\x86\Release\VentasUNOA1.exe.manifest" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -206,6 +246,31 @@
       <ProductName>Windows Installer 3.1</ProductName>
       <Install>true</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\app.publish\VentasUNOA1.exe" />
+    <Content Include="bin\Debug\LibPrintTicket.dll" />
+    <Content Include="bin\Debug\MySql.Data.dll" />
+    <Content Include="bin\Debug\VentasUNOA.vshost.exe" />
+    <Content Include="bin\Debug\VentasUNOA1.exe" />
+    <Content Include="bin\Debug\VentasUNOA1.pdb" />
+    <Content Include="bin\Debug\VentasUNOA1.vshost.exe" />
+    <Content Include="bin\Release\app.publish\VentasUNOA1.exe" />
+    <Content Include="bin\Release\LibPrintTicket.dll" />
+    <Content Include="bin\Release\MySql.Data.dll" />
+    <Content Include="bin\Release\VentasUNOA1.exe" />
+    <Content Include="bin\Release\VentasUNOA1.pdb" />
+    <Content Include="bin\Release\VentasUNOA1.vshost.exe" />
+    <Content Include="obj\x86\Debug\TempPE\Model1.cs.dll" />
+    <Content Include="obj\x86\Debug\TempPE\Model1.Designer.cs.dll" />
+    <Content Include="obj\x86\Debug\TempPE\Properties.Resources.Designer.cs.dll" />
+    <Content Include="obj\x86\Debug\VentasUNOA1.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\x86\Debug\VentasUNOA1.exe" />
+    <Content Include="obj\x86\Debug\VentasUNOA1.pdb" />
+    <Content Include="obj\x86\Release\TempPE\Properties.Resources.Designer.cs.dll" />
+    <Content Include="obj\x86\Release\VentasUNOA1.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\x86\Release\VentasUNOA1.exe" />
+    <Content Include="obj\x86\Release\VentasUNOA1.pdb" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
