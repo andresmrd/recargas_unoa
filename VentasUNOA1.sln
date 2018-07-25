@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VentasUNOA1", "VentasUNOA1\VentasUNOA1.csproj", "{C0AC1628-65B1-4191-86B3-6478800831BB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstaladorUNOA", "InstaladorUNOA\InstaladorUNOA.vdproj", "{30870FD0-C519-4C57-85D7-809D27BF9475}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0AC1628-65B1-4191-86B3-6478800831BB}.Debug|x86.ActiveCfg = Release|x86
+		{C0AC1628-65B1-4191-86B3-6478800831BB}.Debug|x86.Build.0 = Release|x86
+		{C0AC1628-65B1-4191-86B3-6478800831BB}.Release|x86.ActiveCfg = Release|x86
+		{C0AC1628-65B1-4191-86B3-6478800831BB}.Release|x86.Build.0 = Release|x86
+		{30870FD0-C519-4C57-85D7-809D27BF9475}.Debug|x86.ActiveCfg = Debug
+		{30870FD0-C519-4C57-85D7-809D27BF9475}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F58A61F7-74F5-4377-8E83-D4D3743DFE16}
+	EndGlobalSection
+EndGlobal
